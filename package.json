@@ -19,5 +19,9 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.11.0"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.679.0",
+    "@aws-sdk/lib-dynamodb": "^3.679.0"
+  }
 }
